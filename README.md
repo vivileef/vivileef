@@ -1,10 +1,10 @@
 <img src="./assets/header-hands.png" width="100%" alt="header"/>
 
+<div align="center">
+
 ### 😎 Hola a todos, soy Evelyn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22C55E&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenida+a+mi+universo+GitHub!" alt="Welcome"/>
-
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=B91C1C&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenida+a+mi+universo+GitHub!" alt="Welcome"/>
 
 # Evelyn Faubla Ordóñez
 
@@ -14,7 +14,7 @@ Construyo soluciones de software que combinan **tecnología, datos e inteligenci
 
 Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=900&color=B91C1C&center=true&width=500&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=900&color=E5E5E5&center=true&vCenter=true&width=500&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161616?style=for-the-badge&logo=linkedin&logoColor=E5E5E5&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
 [![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
@@ -22,7 +22,7 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 
 </div>
 
----
+<br/>
 
 ## Terminal
 
@@ -54,7 +54,7 @@ evelyn@uleam:~$ neofetch
        # 🪐 observing the future in real time
 ```
 
----
+<br/>
 
 <table>
 <tr>
@@ -63,50 +63,22 @@ evelyn@uleam:~$ neofetch
 ## 🛠️ Stack técnico
 
 <table>
-<tr>
-<td width="28%" valign="middle"><strong>Lenguajes</strong></td>
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Frontend</strong></td>
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>Backend & DB</strong></td>
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/>
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><strong>IA & Cloud</strong></td>
-<td valign="middle">
-
-<img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
-
-</td>
-</tr>
+<tr><td width="28%"><strong>Lenguajes</strong></td><td><img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/></td></tr>
+<tr><td><strong>Frontend</strong></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/></td></tr>
+<tr><td><strong>Backend & DB</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/></td></tr>
+<tr><td><strong>IA & Cloud</strong></td><td><img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/></td></tr>
 </table>
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/code-glow.png" width="100%" alt="code glow"/>
+<img src="./assets/offline-trex.png" width="100%" alt="offline"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## Proyectos destacados
 
@@ -153,9 +125,13 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
+<div align="center">
+
 [![Ver todos los repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef?tab=repositories)
 
----
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -181,7 +157,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
----
+<br/>
 
 <div align="center">
 
@@ -207,19 +183,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/offline-trex.png" width="200" alt="offline"/>
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### Conectemos
 
