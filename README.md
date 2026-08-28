@@ -114,9 +114,6 @@ evelyn@uleam:~$ neofetch
 
 <div align="center">
 
-**Proyectos destacados**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=700&color=B91C1C&center=true&width=560&lines=GemelaAI+%C2%B7+Salud+femenina+con+IA;AgroGuardian+AI+%C2%B7+Demo+live+%F0%9F%9A%80;SGEpro+%C2%B7+Gesti%C3%B3n+de+pr%C3%A1cticas;Ferias+ULEAM+%C2%B7+Marketplace+estudiantil" alt="Projects typing"/>
 
 </div>
 
