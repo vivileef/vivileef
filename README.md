@@ -2,12 +2,8 @@
 
 <div align="center">
 
-### 😎 Hola a todos, soy Evelyn
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=B91C1C&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenidos+a+mi+universo+GitHub!" alt="Welcome"/>
-
-<br/>
-
+### 😎 Hola a todos, soy Evelyn Faubla
+---
 **Full-Stack Software Engineer · AI-Powered Applications**
 
 Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
