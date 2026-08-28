@@ -52,28 +52,20 @@ evelyn@uleam:~$ neofetch
 
 **🛠️ Stack técnico**
 
-<table>
-<tr>
-<td width="26%" valign="middle"><strong>Lenguajes</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/></td>
-</tr>
-<tr>
-<td valign="middle"><strong>Frontend</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/></td>
-</tr>
-<tr>
-<td valign="middle"><strong>Backend & DB</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/></td>
-</tr>
-<tr>
-<td valign="middle"><strong>IA & Cloud</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/></td>
-</tr>
-<tr>
-<td valign="middle"><strong>DevOps</strong></td>
-<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/></td>
-</tr>
-</table>
+**Lenguajes**  
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & DB**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/>
+
+**IA & Cloud**  
+<img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
+
+**DevOps**  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/>
 
 </td>
 <td width="36%" align="center" valign="middle">
@@ -90,19 +82,19 @@ evelyn@uleam:~$ neofetch
 
 <table>
 <tr>
-<td align="center" valign="middle">
+<td align="center" valign="middle" width="47%">
 
-<img height="125" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=8&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-
-</td>
-<td align="center" valign="middle" width="56">
-
-<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="36" alt="GitHub"/>
+<img height="195" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
 </td>
-<td align="center" valign="middle">
+<td align="center" valign="middle" width="6%">
 
-<img height="125" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=9CA3AF&border_color=262626&border_radius=8&langs_count=6&cache_seconds=86400"/>
+<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="44" alt="GitHub"/>
+
+</td>
+<td align="center" valign="middle" width="47%">
+
+<img height="195" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=9CA3AF&border_color=262626&border_radius=10&langs_count=6&width=440&cache_seconds=86400"/>
 
 </td>
 </tr>
