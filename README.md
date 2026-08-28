@@ -125,7 +125,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## Liderazgo y reconocimientos
 
@@ -137,23 +137,22 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 - 🔐 Hacker Women in Council · Women Cisco *(en formación)*
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-## GitHub Stats
+---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true"/>
+## GitHub Stats
 
-<img height="160" src="https://streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=10&langs_count=6"/>
+<img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
+
+<img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=10&langs_count=6&cache_seconds=86400"/>
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
