@@ -10,16 +10,12 @@ Construyo soluciones de software que combinan **tecnología, datos e inteligenci
 
 Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=900&color=B91C1C&center=true&width=500&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=FF4500&center=true&width=520&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-FF4500?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-8B0000?style=for-the-badge&logo=gmail&logoColor=FF6347&labelColor=000000)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vivileef-FF4500?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/vivileef)
-[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-8B0000?style=for-the-badge&logo=vercel&logoColor=FF6347&labelColor=000000)](https://agro-guardian-ai-bice.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161616?style=for-the-badge&logo=linkedin&logoColor=E5E5E5&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vivileef-161616?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=0D1117)](https://github.com/vivileef)
+[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-161616?style=for-the-badge&logo=vercel&logoColor=B91C1C&labelColor=0D1117)](https://agro-guardian-ai-bice.vercel.app)
 
 </div>
 
@@ -27,16 +23,9 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 
 <table>
 <tr>
-<td width="22%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="./assets/palette-profile.png" width="150" height="150" alt="Evelyn Faubla"/>
-
-</td>
-<td width="38%" valign="top">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Sobre%20m%C3%AD&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="220"/>
-
-<br/>
+## Sobre mí
 
 Estudiante avanzada de **Ingeniería en Software** en la ULEAM. Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
 
@@ -48,38 +37,36 @@ Estudiante avanzada de **Ingeniería en Software** en la ULEAM. Apasionada por e
 - ☁️ Certificada **OCI AI Foundations Associate**
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Stack%20t%C3%A9cnico&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="240"/>
-
-<br/>
+## Stack técnico
 
 **Lenguajes**
 
-![JS](https://img.shields.io/badge/JavaScript-FF4500?style=flat-square&logo=javascript&logoColor=000000&labelColor=000000)
-![TS](https://img.shields.io/badge/TypeScript-8B0000?style=flat-square&logo=typescript&logoColor=FF6347&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FF4500?style=flat-square&logo=python&logoColor=000000&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-8B0000?style=flat-square&logo=cplusplus&logoColor=FF6347&labelColor=000000)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-FF4500?style=flat-square&logo=react&logoColor=000000&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-8B0000?style=flat-square&logo=nextdotjs&logoColor=FF6347&labelColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-FF4500?style=flat-square&logo=tailwindcss&logoColor=000000&labelColor=000000)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & DB**
 
-![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=flat-square&logo=nodedotjs&logoColor=FF6347&labelColor=000000)
-![Express](https://img.shields.io/badge/Express-FF4500?style=flat-square&logo=express&logoColor=000000&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B0000?style=flat-square&logo=postgresql&logoColor=FF6347&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-FF4500?style=flat-square&logo=supabase&logoColor=000000&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **IA & Cloud**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-8B0000?style=flat-square&logo=openai&logoColor=FF6347&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FF4500?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-8B0000?style=flat-square&logo=docker&logoColor=FF6347&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-FF4500?style=flat-square&logo=vercel&logoColor=000000&labelColor=000000)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
@@ -87,7 +74,7 @@ Estudiante avanzada de **Ingeniería en Software** en la ULEAM. Apasionada por e
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Proyectos%20destacados&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="280"/>
+## Proyectos destacados
 
 <table>
 <tr>
@@ -132,7 +119,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
-[![Ver todos los repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-FF4500?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/vivileef?tab=repositories)
+[![Ver todos los repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef?tab=repositories)
 
 ---
 
@@ -140,9 +127,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 <tr>
 <td width="58%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Liderazgo%20y%20reconocimientos&fontSize=16&fontColor=FF4500&color=0:000000,100:8B0000" width="340"/>
-
-<br/>
+## Liderazgo y reconocimientos
 
 - 👩‍💻 Fundadora · **Women STEM Manta**
 - 💜 Engineering Chair · **IEEE WIE** · IEEE ULEAM · IEEE RAS
@@ -154,9 +139,9 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="260" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="240" alt="Coding animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=FF4500&center=true&width=260&lines=Leading+with+purpose+%F0%9F%94%A5;IEEE+WIE+Engineering+Chair;Building+AI+that+matters" alt="Typing leadership"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&duration=2800&pause=900&color=B91C1C&center=true&width=240&lines=Leading+with+purpose;IEEE+WIE+Engineering+Chair;Building+AI+that+matters" alt="Typing leadership"/>
 
 </td>
 </tr>
@@ -166,15 +151,27 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=GitHub%20Stats&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="220"/>
+## GitHub Stats
 
-<br/>
+<table>
+<tr>
+<td align="center" valign="middle">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=FF4500&icon_color=FF6347&text_color=C9C9C9&border_color=8B0000&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="135" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=8&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<br/>
+</td>
+<td align="center" valign="middle" width="70">
 
-<img alt="Top Languages" width="460" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=FF4500&text_color=C9C9C9&border_color=8B0000&border_radius=10&langs_count=6&cache_seconds=86400"/>
+<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="44" alt="GitHub"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img height="135" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=9CA3AF&border_color=262626&border_radius=8&langs_count=6&cache_seconds=86400"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -182,11 +179,22 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Terminal&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="180"/>
+<img src="./assets/code-glow.png" width="200" alt="code glow"/>
 
-<br/>
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="./assets/offline-trex.png" width="200" alt="offline"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Terminal
 
 ```bash
 evelyn@uleam:~$ neofetch
@@ -211,47 +219,23 @@ evelyn@uleam:~$ neofetch
        # 🪐 observing the future in real time
 ```
 
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/code-glow.png" width="220" alt="code glow"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-<table>
-<tr>
-<td width="28%" align="center" valign="middle">
+<div align="center">
 
-<img src="./assets/offline-trex.png" width="135" alt="offline"/>
+### Conectemos
 
-</td>
-<td width="72%" align="center" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=42&radius=12&text=Conectemos&fontSize=18&fontColor=FF4500&color=0:000000,100:8B0000" width="200"/>
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=FF6347&labelColor=000000)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/vivileef)
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=E5E5E5&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=0D1117)](https://github.com/vivileef)
 
 *La tecnología es el medio. El impacto es el objetivo.*
-
-<br/>
 
 *｡˚ software whispers · ✿ code, AI & digital wonders*
 
 *❝ not everything revolutionary is loud ❞ · 🪐 observing the future in real time*
 
-</td>
-</tr>
-</table>
+</div>
 
 <details>
 <summary><b>English version</b></summary>
