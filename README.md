@@ -125,7 +125,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="58%" valign="top">
 
 ## Liderazgo y reconocimientos
 
@@ -137,6 +137,13 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 - 🔐 Hacker Women in Council · Women Cisco *(en formación)*
 
 </td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="280" alt="Coding animation"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=A78BFA&center=true&width=280&lines=Leading+with+purpose+%F0%9F%92%9C;IEEE+WIE+Engineering+Chair;Building+AI+that+matters+%F0%9F%9A%80" alt="Typing leadership"/>
+
+</td>
 </tr>
 </table>
 
@@ -146,11 +153,13 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 ## GitHub Stats
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
+<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
 
-<img alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=10&langs_count=6&cache_seconds=86400"/>
+<br/>
+
+<img alt="Top Languages" width="460" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=10&langs_count=6&cache_seconds=86400"/>
 
 </div>
 
