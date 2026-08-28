@@ -15,7 +15,7 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161616?style=for-the-badge&logo=linkedin&logoColor=E5E5E5&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
 [![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vivileef-161616?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=0D1117)](https://github.com/vivileef)
-[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-161616?style=for-the-badge&logo=vercel&logoColor=B91C1C&labelColor=0D1117)](https://agro-guardian-ai-bice.vercel.app)
+
 
 </div>
 
