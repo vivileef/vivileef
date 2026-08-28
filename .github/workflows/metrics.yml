@@ -23,22 +23,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: vivileef
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Guayaquil
           config_display: large
-          config_presets: large
-
-          plugin_introduction: yes
-          plugin_introduction_title: Hey, I'm Evelyn 👋
-          plugin_introduction_text: |
-            Full-Stack Software Engineer · AI-Powered Applications
-            ULEAM · Manabí, Ecuador
-            ｡˚ software whispers · ✿ code, AI & digital wonders
-            Open to internships · Junior Full-Stack/AI · Remote LATAM
-
-          plugin_lines: yes
-          plugin_lines_sections: total
-          plugin_lines_history_limit: 10
 
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -52,19 +39,14 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
 
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
           plugin_repositories: yes
           plugin_repositories_featured: vivileef/AgroGuardian-AI, vivileef/Gemela-AI, vivileef/SGEpro-react
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_lines: yes
+          plugin_lines_sections: total
 
           committer: yes
           committer_branch: main
