@@ -21,52 +21,38 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 
 ---
 
+## 🛠️ Stack técnico
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="22%" valign="middle"><strong>Lenguajes</strong></td>
+<td valign="middle">
 
-## Sobre mí
-
-Estudiante avanzada de **Ingeniería en Software** en la ULEAM. Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
-
-- 🏆 Ganadora del **Codex Buildathon** con *AgroGuardian AI*
-- 🎓 **Aspire Leader** · Harvard University
-- 🇯🇵 Aceptada en **GCI World 2026** · Lab. Matsuo · Univ. de Tokio
-- 👩‍💻 Fundadora de **Women STEM Manta**
-- 💜 Engineering Chair · **IEEE WIE**
-- ☁️ Certificada **OCI AI Foundations Associate**
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="middle"><strong>Frontend</strong></td>
+<td valign="middle">
 
-## Stack técnico
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
 
-**Lenguajes**
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>Backend & DB</strong></td>
+<td valign="middle">
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/>
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td valign="middle"><strong>IA & Cloud</strong></td>
+<td valign="middle">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**IA & Cloud**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
 
 </td>
 </tr>
@@ -206,11 +192,16 @@ evelyn@uleam:~$ neofetch
        ███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║
        ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
+       About........ Estudiante avanzada de Ingeniería en Software en la ULEAM.
+                      Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
        OS........... ULEAM · Software Engineering · Manta, Ecuador
        Role......... Full-Stack Software Engineer · AI-Powered Applications
        Stack........ TypeScript · React · Next.js · Python · Supabase · OpenAI
        Highlight.... Codex Buildathon Winner · AgroGuardian AI
+       Awards....... Aspire Leader · Harvard University
+       Awards....... GCI World 2026 · Lab. Matsuo · Univ. de Tokio
        Leadership... Founder · Women STEM Manta · IEEE WIE Engineering Chair
+       Cert......... OCI AI Foundations Associate
        Status....... Open to internships · Junior Full-Stack/AI · Remote LATAM
 
        # ｡˚ software whispers
