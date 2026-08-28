@@ -1,5 +1,9 @@
 <img src="./assets/header-hands.png" width="100%" alt="header"/>
 
+### 😎 Hola a todos, soy Evelyn
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=22C55E&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenida+a+mi+universo+GitHub!" alt="Welcome"/>
+
 <div align="center">
 
 # Evelyn Faubla Ordóñez
@@ -16,8 +20,39 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 [![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vivileef-161616?style=for-the-badge&logo=github&logoColor=E5E5E5&labelColor=0D1117)](https://github.com/vivileef)
 
-
 </div>
+
+---
+
+## Terminal
+
+```bash
+evelyn@uleam:~$ neofetch
+
+       ███████╗██╗   ██╗███████╗██╗     ██╗   ██╗███╗   ██╗
+       ██╔════╝██║   ██║██╔════╝██║     ██║   ██║████╗  ██║
+       █████╗  ██║   ██║█████╗  ██║     ██║   ██║██╔██╗ ██║
+       ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║╚██╗██║
+       ███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║
+       ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+
+       About........ Estudiante avanzada de Ingeniería en Software en la ULEAM.
+                      Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
+       OS........... ULEAM · Software Engineering · Manta, Ecuador
+       Role......... Full-Stack Software Engineer · AI-Powered Applications
+       Stack........ TypeScript · React · Next.js · Python · Supabase · OpenAI
+       Highlight.... Codex Buildathon Winner · AgroGuardian AI
+       Awards....... Aspire Leader · Harvard University
+       Awards....... GCI World 2026 · Lab. Matsuo · Univ. de Tokio
+       Leadership... Founder · Women STEM Manta · IEEE WIE Engineering Chair
+       Cert......... OCI AI Foundations Associate
+       Status....... Open to internships · Junior Full-Stack/AI · Remote LATAM
+
+       # ｡˚ software whispers
+       # ✿ code, AI & digital wonders
+       # ❝ not everything revolutionary is loud ❞
+       # 🪐 observing the future in real time
+```
 
 ---
 
@@ -65,7 +100,7 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="./assets/code-glow.png" width="220" alt="code glow"/>
+<img src="./assets/code-glow.png" width="100%" alt="code glow"/>
 
 </td>
 </tr>
@@ -181,29 +216,6 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 <img src="./assets/offline-trex.png" width="200" alt="offline"/>
 
 </div>
-
----
-
-## Terminal
-
-```bash
-evelyn@uleam:~$ neofetch
-
-       ███████╗██╗   ██╗███████╗██╗     ██╗   ██╗███╗   ██╗
-       ██╔════╝██║   ██║██╔════╝██║     ██║   ██║████╗  ██║
-       █████╗  ██║   ██║█████╗  ██║     ██║   ██║██╔██╗ ██║
-       ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║╚██╗██║
-       ███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║
-       ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-
-       OS........... ULEAM · Software Engineering · Manta, Ecuador
-       Role......... Full-Stack Software Engineer · AI-Powered Applications
-       Stack........ TypeScript · React · Next.js · Python · Supabase · OpenAI
-       Highlight.... Codex Buildathon Winner · AgroGuardian AI 
-       Leadership... Founder · Women STEM Manta · IEEE WIE Engineering Chair
-       Cert......... OCI AI Foundations Associate
-       Status....... Open to internships · Junior Full-Stack/AI · Remote LATAM
-```
 
 ---
 
