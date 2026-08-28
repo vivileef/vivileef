@@ -4,15 +4,13 @@
 
 ### 😎 Hola a todos, soy Evelyn
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=B91C1C&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenida+a+mi+universo+GitHub!" alt="Welcome"/>
-
-# Evelyn Faubla Ordóñez
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=B91C1C&center=true&vCenter=true&width=520&lines=%F0%9F%92%BB+%C2%A1Bienvenidos+a+mi+universo+GitHub!" alt="Welcome"/>
 
 **Full-Stack Software Engineer · AI-Powered Applications**
 
 Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
 
-Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
+Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=900&color=E5E5E5&center=true&vCenter=true&width=500&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
 
@@ -36,22 +34,14 @@ evelyn@uleam:~$ neofetch
        ███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║
        ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
-       About........ Estudiante avanzada de Ingeniería en Software en la ULEAM.
-                      Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
        OS........... ULEAM · Software Engineering · Manta, Ecuador
        Role......... Full-Stack Software Engineer · AI-Powered Applications
        Stack........ TypeScript · React · Next.js · Python · Supabase · OpenAI
        Highlight.... Codex Buildathon Winner · AgroGuardian AI
-       Awards....... Aspire Leader · Harvard University
-       Awards....... GCI World 2026 · Lab. Matsuo · Univ. de Tokio
        Leadership... Founder · Women STEM Manta · IEEE WIE Engineering Chair
        Cert......... OCI AI Foundations Associate
        Status....... Open to internships · Junior Full-Stack/AI · Remote LATAM
 
-       # ｡˚ software whispers
-       # ✿ code, AI & digital wonders
-       # ❝ not everything revolutionary is loud ❞
-       # 🪐 observing the future in real time
 ```
 
 <br/>
