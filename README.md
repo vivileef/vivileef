@@ -10,6 +10,7 @@
 
 Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161616?style=for-the-badge&logo=linkedin&logoColor=B91C1C&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
 [![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161616?style=for-the-badge&logo=gmail&logoColor=B91C1C&labelColor=0D1117)](mailto:evielisfauordo05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vivileef-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef)
