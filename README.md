@@ -8,8 +8,6 @@
 
 Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
 
-Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=900&color=B91C1C&center=true&vCenter=true&width=500&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161616?style=for-the-badge&logo=linkedin&logoColor=B91C1C&labelColor=0D1117)](https://linkedin.com/in/evelyn-faubla)
