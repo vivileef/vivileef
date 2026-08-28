@@ -21,11 +21,15 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 
 ---
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ## 🛠️ Stack técnico
 
 <table>
 <tr>
-<td width="22%" valign="middle"><strong>Lenguajes</strong></td>
+<td width="28%" valign="middle"><strong>Lenguajes</strong></td>
 <td valign="middle">
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
@@ -53,6 +57,15 @@ Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote 
 <td valign="middle">
 
 <img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
+
+</td>
+</tr>
+</table>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/code-glow.png" width="220" alt="code glow"/>
 
 </td>
 </tr>
@@ -163,20 +176,11 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="./assets/code-glow.png" width="200" alt="code glow"/>
-
-</td>
-<td width="50%" align="center" valign="middle">
+<div align="center">
 
 <img src="./assets/offline-trex.png" width="200" alt="offline"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
