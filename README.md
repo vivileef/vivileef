@@ -4,6 +4,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI-Powered+Applications;Building+impact+with+code+%F0%9F%9A%80" alt="Typing SVG"/>
 
+<br/>
+
+*｡˚ software whispers*  
+*✿ code, AI & digital wonders*  
+*❝ not everything revolutionary is loud ❞*  
+*🪐 observing the future in real time*
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=vivileef&label=Profile%20views&color=A78BFA&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -234,6 +243,8 @@ Open to internships · Junior Full-Stack/AI roles · Remote LATAM
 [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivileef)
 
 *Technology is the means. Impact is the goal.* ✨
+
+*｡˚ software whispers · ✿ code, AI & digital wonders · 🪐 observing the future in real time*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=90&section=footer" width="100%"/>
 
