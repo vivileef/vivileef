@@ -1,30 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,12&height=130&section=header&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="./assets/header-hands.png" width="100%" alt="header"/>
+
+<br/><br/>
 
 # Evelyn Faubla Ordóñez
 
 ### Full-Stack Software Engineer · AI-Powered Applications
 
-<br/>
-
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/SSnetne5TaBRSK06hQ/giphy.gif" width="72" alt="pixel art"/>
-</td>
-<td align="left">
-
-```
-  Hola,
-  mundo.
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=F472B6&center=true&width=520&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=FF4500&center=true&width=540&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
 
 <br/>
 
@@ -32,10 +16,10 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161618?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161618?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=374151)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vivileef-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef)
-[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-161618?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=374151)](https://agro-guardian-ai-bice.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-1A0D0A?style=for-the-badge&logo=linkedin&logoColor=FF6347&labelColor=000000)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-1A0D0A?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=000000)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vivileef-1A0D0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/vivileef)
+[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-1A0D0A?style=for-the-badge&logo=vercel&logoColor=FF6347&labelColor=000000)](https://agro-guardian-ai-bice.vercel.app)
 
 </div>
 
@@ -43,10 +27,23 @@
 
 ## quien_soy
 
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
+
+<img src="./assets/palette-profile.png" width="160" alt="palette"/>
+
+</td>
+<td width="62%" valign="top">
+
 Estudiante avanzada de **Ingeniería en Software** en la ULEAM, Manta · Ecuador.
 Construyo aplicaciones **Full-Stack con IA** que combinan datos, visión por computadora y experiencias reales para generar impacto.
 
 `Open to internships` · `Junior Full-Stack/AI` · `Remote LATAM`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,12 +51,16 @@ Construyo aplicaciones **Full-Stack con IA** que combinan datos, visión por com
 
 <div align="center">
 
+<img src="./assets/code-glow.png" width="420" alt="code glow"/>
+
+<br/><br/>
+
 <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,postgres,supabase,docker,aws,vercel,git&perline=8&theme=dark"/>
 
 <br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-161618?style=flat-square&logo=openai&logoColor=A78BFA)
-![OCI](https://img.shields.io/badge/OCI_AI_Foundations-161618?style=flat-square&logo=oracle&logoColor=F472B6)
+![OpenAI](https://img.shields.io/badge/OpenAI-1A0D0A?style=flat-square&logo=openai&logoColor=FF6347)
+![OCI](https://img.shields.io/badge/OCI_AI_Foundations-1A0D0A?style=flat-square&logo=oracle&logoColor=FF4500)
 
 </div>
 
@@ -69,13 +70,13 @@ Construyo aplicaciones **Full-Stack con IA** que combinan datos, visión por com
 
 <div align="center">
 
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vivileef&bg_color=0d1117&color=ffffff&line=a78bfa&point=f472b6&area=true&hide_border=true&custom_title=contribuciones&title_color=ffffff&ring_color=374151"/>
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vivileef&bg_color=1a0d0a&color=ff6347&line=ff4500&point=ffffff&area=true&hide_border=true&custom_title=contribuciones&title_color=ffffff&ring_color=8b0000"/>
 
 <br/>
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=A78BFA&text_color=9CA3AF&border_color=374151&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=1A0D0A&title_color=FF6347&icon_color=FF4500&text_color=C9C9C9&border_color=8B0000&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="165" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&border_color=374151&border_radius=10&langs_count=6&cache_seconds=86400"/>
+<img height="165" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=1A0D0A&title_color=FF6347&text_color=C9C9C9&border_color=8B0000&border_radius=10&langs_count=6&cache_seconds=86400"/>
 
 </div>
 
@@ -129,7 +130,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
-[![Ver todos los repos](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef?tab=repositories)
+[![Ver todos los repos](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-1A0D0A?style=for-the-badge&logo=github&logoColor=FF6347&labelColor=000000)](https://github.com/vivileef?tab=repositories)
 
 ---
 
@@ -137,16 +138,16 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <div align="center">
 
-![Codex Buildathon](https://img.shields.io/badge/🏆_Codex_Buildathon-Winner-F472B6?style=for-the-badge&labelColor=161618)
-![Aspire Leader](https://img.shields.io/badge/🎓_Aspire_Leader-Harvard-9CA3AF?style=for-the-badge&labelColor=161618)
-![GCI World 2026](https://img.shields.io/badge/🇯🇵_GCI_World_2026-Tokyo-A78BFA?style=for-the-badge&labelColor=161618)
-![Women in Cloud](https://img.shields.io/badge/🎖️_Women_in_Cloud-Winner-F472B6?style=for-the-badge&labelColor=161618)
+![Codex Buildathon](https://img.shields.io/badge/🏆_Codex_Buildathon-Winner-FF4500?style=for-the-badge&labelColor=1A0D0A)
+![Aspire Leader](https://img.shields.io/badge/🎓_Aspire_Leader-Harvard-FF6347?style=for-the-badge&labelColor=1A0D0A)
+![GCI World 2026](https://img.shields.io/badge/🇯🇵_GCI_World_2026-Tokyo-8B0000?style=for-the-badge&labelColor=000000)
+![Women in Cloud](https://img.shields.io/badge/🎖️_Women_in_Cloud-Winner-FF4500?style=for-the-badge&labelColor=1A0D0A)
 
 <br/><br/>
 
-![Women STEM Manta](https://img.shields.io/badge/👩‍💻_Women_STEM_Manta-Founder-374151?style=flat-square&labelColor=161618)
-![IEEE WIE](https://img.shields.io/badge/💜_IEEE_WIE-Engineering_Chair-A78BFA?style=flat-square&labelColor=161618)
-![OCI AI](https://img.shields.io/badge/☁️_OCI-AI_Foundations_Associate-9CA3AF?style=flat-square&labelColor=161618)
+![Women STEM Manta](https://img.shields.io/badge/👩‍💻_Women_STEM_Manta-Founder-8B0000?style=flat-square&labelColor=1A0D0A)
+![IEEE WIE](https://img.shields.io/badge/💜_IEEE_WIE-Engineering_Chair-FF6347?style=flat-square&labelColor=1A0D0A)
+![OCI AI](https://img.shields.io/badge/☁️_OCI-AI_Foundations_Associate-FF4500?style=flat-square&labelColor=1A0D0A)
 
 </div>
 
@@ -187,23 +188,27 @@ evelyn@uleam:~$ neofetch
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161618?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-161618?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=374151)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef)
-
-<br/><br/>
-
-![views](https://komarev.com/ghpvc/?username=vivileef&color=F472B6&style=for-the-badge&label=VISITAS&labelColor=161618)
+<img src="./assets/offline-trex.png" width="280" alt="you are offline"/>
 
 <br/>
 
-*La tecnología es el medio. El impacto es el objetivo.* 💜
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A0D0A?style=for-the-badge&logo=linkedin&logoColor=FF6347&labelColor=000000)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-1A0D0A?style=for-the-badge&logo=gmail&logoColor=FF4500&labelColor=000000)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1A0D0A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/vivileef)
+
+<br/><br/>
+
+![views](https://komarev.com/ghpvc/?username=vivileef&color=FF4500&style=for-the-badge&label=VISITAS&labelColor=1A0D0A)
+
+<br/>
+
+*La tecnología es el medio. El impacto es el objetivo.*
 
 *｡˚ software whispers · ✿ code, AI & digital wonders · 🪐 observing the future in real time*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,12&height=100&section=footer&fontSize=14&fontColor=9CA3AF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,0,1&height=90&section=footer&fontSize=14&fontColor=FF6347&animation=twinkling" width="100%"/>
 
 </div>
 
