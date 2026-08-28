@@ -1,99 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&radius=20&text=Hola%21%20Soy%20Evelyn&fontSize=32&fontColor=ffffff&color=gradient&customColorList=24,12,20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,12&height=130&section=header&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 # Evelyn Faubla Ordóñez
 
-**Full-Stack Software Engineer · AI-Powered Applications**
-
-Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
-
-Manta, Ecuador · ULEAM · Open to internships & Junior Full-Stack/AI · Remote LATAM
+### Full-Stack Software Engineer · AI-Powered Applications
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fevelyn--faubla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vivileef-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivileef)
-[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agro-guardian-ai-bice.vercel.app)
-
-</div>
-
----
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## Sobre mí
-
-Estudiante avanzada de **Ingeniería en Software** en la ULEAM. Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
-
-- 🏆 Ganadora del **Codex Buildathon** con *AgroGuardian AI*
-- 🎓 **Aspire Leader** · Harvard University
-- 🇯🇵 Aceptada en **GCI World 2026** · Lab. Matsuo · Univ. de Tokio
-- 👩‍💻 Fundadora de **Women STEM Manta**
-- 💜 Engineering Chair · **IEEE WIE**
-- ☁️ Certificada **OCI AI Foundations Associate**
-
+<td align="center" width="90">
+<img src="https://media.giphy.com/media/SSnetne5TaBRSK06hQ/giphy.gif" width="72" alt="pixel art"/>
 </td>
-<td width="50%" valign="top">
+<td align="left">
 
-## Stack técnico
-
-**Lenguajes**
-
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**IA & Cloud**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+```
+  Hola,
+  mundo.
+```
 
 </td>
 </tr>
 </table>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=F472B6&center=true&width=520&lines=software+whispers+%E3%80%82;code%2C+AI+%26+digital+wonders;not+everything+revolutionary+is+loud" alt="Typing tagline"/>
+
+<br/>
+
+`• sistema en línea — bienvenida_`
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-161618?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-evielisfauordo05%40gmail.com-161618?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=374151)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vivileef-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef)
+[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-161618?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=374151)](https://agro-guardian-ai-bice.vercel.app)
+
+</div>
+
 ---
 
-## Proyectos destacados
+## quien_soy
+
+Estudiante avanzada de **Ingeniería en Software** en la ULEAM, Manta · Ecuador.
+Construyo aplicaciones **Full-Stack con IA** que combinan datos, visión por computadora y experiencias reales para generar impacto.
+
+`Open to internships` · `Junior Full-Stack/AI` · `Remote LATAM`
+
+---
+
+## stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,postgres,supabase,docker,aws,vercel,git&perline=8&theme=dark"/>
+
+<br/>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-161618?style=flat-square&logo=openai&logoColor=A78BFA)
+![OCI](https://img.shields.io/badge/OCI_AI_Foundations-161618?style=flat-square&logo=oracle&logoColor=F472B6)
+
+</div>
+
+---
+
+## actividad
+
+<div align="center">
+
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vivileef&bg_color=0d1117&color=ffffff&line=a78bfa&point=f472b6&area=true&hide_border=true&custom_title=contribuciones&title_color=ffffff&ring_color=374151"/>
+
+<br/>
+
+<img height="165" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=A78BFA&text_color=9CA3AF&border_color=374151&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+
+<img height="165" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&border_color=374151&border_radius=10&langs_count=6&cache_seconds=86400"/>
+
+</div>
+
+---
+
+## proyectos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [GemelaAI](https://github.com/vivileef/Gemela-AI)
+### [AgroGuardian AI](https://github.com/vivileef/AgroGuardian-AI) · 🏆
 
-Plataforma de salud femenina con gemelas digitales y motor de reportes con IA.
+Agrónomo inteligente con visión por computadora e IA multi-agente.
+Ganador **Codex Buildathon**.
 
-`React` `TypeScript` `Node.js` `Supabase` `OpenAI`
+[`demo live →`](https://agro-guardian-ai-bice.vercel.app)
+
+`Next.js` `TypeScript` `OpenAI` `Computer Vision`
 
 </td>
 <td width="50%" valign="top">
 
-### [AgroGuardian AI](https://github.com/vivileef/AgroGuardian-AI) · 🏆
+### [GemelaAI](https://github.com/vivileef/Gemela-AI)
 
-Agrónomo inteligente con visión por computadora e IA multi-agente.
+Plataforma de salud femenina con gemelas digitales y reportes con IA.
 
-[`Demo live →`](https://agro-guardian-ai-bice.vercel.app) · `Next.js` `TypeScript` `OpenAI`
+`React` `TypeScript` `Node.js` `Supabase` `OpenAI`
 
 </td>
 </tr>
@@ -119,51 +129,30 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </tr>
 </table>
 
-[![Ver todos los repositorios](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivileef?tab=repositories)
+[![Ver todos los repos](https://img.shields.io/badge/Ver_todos_los_repositorios-vivileef-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef?tab=repositories)
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## Liderazgo y reconocimientos
-
-- 👩‍💻 Fundadora · **Women STEM Manta**
-- 💜 Engineering Chair · **IEEE WIE** · IEEE ULEAM · IEEE RAS
-- 🌍 **Aspire Leader** · Harvard University
-- 🔬 **GCI World 2026** · Lab. Matsuo · Univ. de Tokio
-- 🎖️ Ganadora · **Women in Cloud** (WIC)
-- 🔐 Hacker Women in Council · Women Cisco *(en formación)*
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="280" alt="Coding animation"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=A78BFA&center=true&width=280&lines=Leading+with+purpose+%F0%9F%92%9C;IEEE+WIE+Engineering+Chair;Building+AI+that+matters+%F0%9F%9A%80" alt="Typing leadership"/>
-
-</td>
-</tr>
-</table>
-
----
+## logros
 
 <div align="center">
 
-## GitHub Stats
+![Codex Buildathon](https://img.shields.io/badge/🏆_Codex_Buildathon-Winner-F472B6?style=for-the-badge&labelColor=161618)
+![Aspire Leader](https://img.shields.io/badge/🎓_Aspire_Leader-Harvard-9CA3AF?style=for-the-badge&labelColor=161618)
+![GCI World 2026](https://img.shields.io/badge/🇯🇵_GCI_World_2026-Tokyo-A78BFA?style=for-the-badge&labelColor=161618)
+![Women in Cloud](https://img.shields.io/badge/🎖️_Women_in_Cloud-Winner-F472B6?style=for-the-badge&labelColor=161618)
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<br/><br/>
 
-<br/>
-
-<img alt="Top Languages" width="460" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=10&langs_count=6&cache_seconds=86400"/>
+![Women STEM Manta](https://img.shields.io/badge/👩‍💻_Women_STEM_Manta-Founder-374151?style=flat-square&labelColor=161618)
+![IEEE WIE](https://img.shields.io/badge/💜_IEEE_WIE-Engineering_Chair-A78BFA?style=flat-square&labelColor=161618)
+![OCI AI](https://img.shields.io/badge/☁️_OCI-AI_Foundations_Associate-9CA3AF?style=flat-square&labelColor=161618)
 
 </div>
 
 ---
 
-## Terminal
+## terminal
 
 ```bash
 evelyn@uleam:~$ neofetch
@@ -192,21 +181,29 @@ evelyn@uleam:~$ neofetch
 
 <div align="center">
 
-### Conectemos
+### construyamos algo juntas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evielisfauordo05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivileef)
+📍 Manta, Ecuador · ULEAM
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161618?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=374151)](https://linkedin.com/in/evelyn-faubla)
+[![Gmail](https://img.shields.io/badge/Gmail-161618?style=for-the-badge&logo=gmail&logoColor=F472B6&labelColor=374151)](mailto:evielisfauordo05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161618?style=for-the-badge&logo=github&logoColor=white&labelColor=374151)](https://github.com/vivileef)
+
+<br/><br/>
+
+![views](https://komarev.com/ghpvc/?username=vivileef&color=F472B6&style=for-the-badge&label=VISITAS&labelColor=161618)
 
 <br/>
 
 *La tecnología es el medio. El impacto es el objetivo.* 💜
 
+*｡˚ software whispers · ✿ code, AI & digital wonders · 🪐 observing the future in real time*
+
 <br/>
 
-*｡˚ software whispers · ✿ code, AI & digital wonders*
-
-*❝ not everything revolutionary is loud ❞ · 🪐 observing the future in real time*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,12&height=100&section=footer&fontSize=14&fontColor=9CA3AF&animation=twinkling" width="100%"/>
 
 </div>
 
