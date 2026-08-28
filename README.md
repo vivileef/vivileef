@@ -48,29 +48,37 @@ evelyn@uleam:~$ neofetch
 
 <table>
 <tr>
-<td width="64%" valign="top">
+<td width="58%" valign="top">
 
 **🛠️ Stack técnico**
 
-**Lenguajes**  
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-
-**Backend & DB**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/>
-
-**IA & Cloud**  
-<img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
-
-**DevOps**  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/>
+<table>
+<tr>
+<td width="26%" valign="middle"><strong>Lenguajes</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>Frontend</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>Backend & DB</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>IA & Cloud</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>DevOps</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/></td>
+</tr>
+</table>
 
 </td>
-<td width="36%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/offline-trex.png" width="210" alt="offline"/>
+<img src="./assets/offline-trex.png" width="100%" alt="offline"/>
 
 </td>
 </tr>
