@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header-hands.png" width="820" alt="header"/>
+<img src="./assets/header-hands.png" width="860" alt="header"/>
 
 </div>
 
@@ -112,7 +112,13 @@ evelyn@uleam:~$ neofetch
 
 <br/>
 
-## Proyectos destacados
+<div align="center">
+
+**Proyectos destacados**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=700&color=B91C1C&center=true&width=560&lines=GemelaAI+%C2%B7+Salud+femenina+con+IA;AgroGuardian+AI+%C2%B7+Demo+live+%F0%9F%9A%80;SGEpro+%C2%B7+Gesti%C3%B3n+de+pr%C3%A1cticas;Ferias+ULEAM+%C2%B7+Marketplace+estudiantil" alt="Projects typing"/>
+
+</div>
 
 <table>
 <tr>
@@ -122,7 +128,11 @@ evelyn@uleam:~$ neofetch
 
 Plataforma de salud femenina con gemelas digitales y motor de reportes con IA.
 
-`React` `TypeScript` `Node.js` `Supabase` `OpenAI`
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/Gemela-AI)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +141,11 @@ Plataforma de salud femenina con gemelas digitales y motor de reportes con IA.
 
 Agrónomo inteligente con visión por computadora e IA multi-agente.
 
-[`Demo live →`](https://agro-guardian-ai-bice.vercel.app) · `Next.js` `TypeScript` `OpenAI`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-B91C1C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://agro-guardian-ai-bice.vercel.app)
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/AgroGuardian-AI)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </td>
 </tr>
@@ -142,7 +156,10 @@ Agrónomo inteligente con visión por computadora e IA multi-agente.
 
 Sistema de gestión de prácticas preprofesionales con 4 roles.
 
-`Next.js` `React` `TypeScript` `Tailwind`
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/SGEpro-react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +168,10 @@ Sistema de gestión de prácticas preprofesionales con 4 roles.
 
 Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
-`Next.js` `React` `TypeScript` `Radix UI`
+[![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/Plataforma-de-ferias-y-emprendimientos-estudiantiles--IHC)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161616?style=flat-square&logo=radixui&logoColor=white)
 
 </td>
 </tr>
