@@ -192,22 +192,13 @@ evelyn@uleam:~$ neofetch
        ███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║ ╚████║
        ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
-       About........ Estudiante avanzada de Ingeniería en Software en la ULEAM.
-                      Apasionada por el desarrollo Full-Stack y las aplicaciones con IA.
        OS........... ULEAM · Software Engineering · Manta, Ecuador
        Role......... Full-Stack Software Engineer · AI-Powered Applications
        Stack........ TypeScript · React · Next.js · Python · Supabase · OpenAI
-       Highlight.... Codex Buildathon Winner · AgroGuardian AI
-       Awards....... Aspire Leader · Harvard University
-       Awards....... GCI World 2026 · Lab. Matsuo · Univ. de Tokio
+       Highlight.... Codex Buildathon Winner · AgroGuardian AI 
        Leadership... Founder · Women STEM Manta · IEEE WIE Engineering Chair
        Cert......... OCI AI Foundations Associate
        Status....... Open to internships · Junior Full-Stack/AI · Remote LATAM
-
-       # ｡˚ software whispers
-       # ✿ code, AI & digital wonders
-       # ❝ not everything revolutionary is loud ❞
-       # 🪐 observing the future in real time
 ```
 
 ---
