@@ -4,29 +4,32 @@
 
 **Full-Stack Software Engineer · AI-Powered Applications**
 
-<sub>
+<br/>
 
-｡˚ software whispers<br/>
-✿ code, AI & digital wonders<br/>
-❝ not everything revolutionary is loud ❞<br/>
-🪐 observing the future in real time
+*｡˚ software whispers*
 
-</sub>
+*✿ code, AI & digital wonders*
+
+*❝ not everything revolutionary is loud ❞*
+
+*🪐 observing the future in real time*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-evelyn--faubla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
-[![Email](https://img.shields.io/badge/Email-evielisfauordo05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evielisfauordo05@gmail.com)
-[![Demo](https://img.shields.io/badge/Demo-AgroGuardian_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agro-guardian-ai-bice.vercel.app)
-[![CV](https://img.shields.io/badge/CV-LinkedIn-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evielisfauordo05@gmail.com)
+[![Demo](https://img.shields.io/badge/Demo-AgroGuardian-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agro-guardian-ai-bice.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-View-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
 
 </div>
 
 ---
 
-<img src="github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%"/>
+<div align="center">
 
-> Dashboard generado automáticamente · se actualiza diariamente
+<img src="https://raw.githubusercontent.com/vivileef/vivileef/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%"/>
+
+</div>
 
 ---
 
