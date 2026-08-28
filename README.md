@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Evelyn%20Faubla%20Ord%C3%B3nez&fontSize=42&fontColor=ffffff&stroke=ffffff&strokeWidth=1.5&color=gradient&customColorList=24,12,20,6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Evelyn%20Faubla%20Ord%C3%B3nez&fontSize=44&fontColor=ffffff&stroke=ffffff&strokeWidth=1.5&color=gradient&customColorList=24,12,20,6&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI-Powered+Applications;Building+impact+with+code+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=F472B6&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%92%BB;AI-Powered+Applications+%E2%9C%A8;Codex+Buildathon+Winner+%F0%9F%8F%86;Building+impact+with+code+%F0%9F%9A%80" alt="Typing role"/>
 
-<br/>
-
-*｡˚ software whispers*  
-*✿ code, AI & digital wonders*  
-*❝ not everything revolutionary is loud ❞*  
-*🪐 observing the future in real time*
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=18&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%EF%BD%A1%CB%9A+software+whispers;%E2%9C%BF+code%2C+AI+%26+digital+wonders;%E2%9D%9D+not+everything+revolutionary+is+loud+%E2%9D%9E;%F0%9F%AA%90+observing+the+future+in+real+time" alt="Typing manifesto"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vivileef&label=Profile%20views&color=A78BFA&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vivileef&label=Profile%20views&color=F472B6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/vivileef?style=for-the-badge&logo=github&label=Followers&color=A78BFA" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/vivileef?style=for-the-badge&logo=github&label=Stars&color=EC4899" alt="Stars"/>
 
 </div>
 
@@ -21,7 +18,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ### 👋 ¡Hola! Soy **Evelyn Faubla Ordóñez**
 
@@ -37,16 +34,18 @@ Soy desarrolladora Full-Stack especializada en **aplicaciones con inteligencia a
 - 🌱 Abierta a **internships · Junior Full-Stack/AI · Remote LATAM**
 
 </td>
-<td width="35%" align="center" valign="top">
+<td width="38%" align="center" valign="top">
 
-<img src="https://github.com/vivileef.png" width="180" alt="Evelyn Faubla"/>
+<img src="https://github.com/vivileef.png" width="160" alt="Evelyn Faubla"/>
 
-<br/><br/>
+<br/>
+
+<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="200" alt="Coding animation"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evelyn-faubla)
-<br/>
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evielisfauordo05@gmail.com)
-<br/>
 [![Demo](https://img.shields.io/badge/Demo-AgroGuardian-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agro-guardian-ai-bice.vercel.app)
 
 </td>
@@ -59,41 +58,16 @@ Soy desarrolladora Full-Stack especializada en **aplicaciones con inteligencia a
 
 ## 🛠️ Languages and Tools
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,nextjs,tailwind,vite,nodejs,express,postgres,supabase,docker,aws,vercel,git&theme=dark&perline=9"/>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**AI**
+<br/>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Oracle](https://img.shields.io/badge/OCI_AI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
 
 ---
 
@@ -133,10 +107,6 @@ Agrónomo inteligente con visión por computadora e IA multi-agente.
 [![Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://agro-guardian-ai-bice.vercel.app)
 [![Code](https://img.shields.io/badge/Code-GitHub-24292F?style=flat-square&logo=github)](https://github.com/vivileef/AgroGuardian-AI)
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
-
 </td>
 <td width="50%" valign="top">
 
@@ -145,10 +115,6 @@ Agrónomo inteligente con visión por computadora e IA multi-agente.
 Salud femenina con gemelas digitales y reportes con IA.
 
 [![Code](https://img.shields.io/badge/Code-GitHub-24292F?style=flat-square&logo=github)](https://github.com/vivileef/Gemela-AI)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node-339933?style=flat-square&logo=nodedotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
 
 </td>
 </tr>
@@ -159,10 +125,6 @@ Salud femenina con gemelas digitales y reportes con IA.
 
 Gestión de prácticas preprofesionales con 4 roles.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
-
 </td>
 <td width="50%" valign="top">
 
@@ -170,18 +132,16 @@ Gestión de prácticas preprofesionales con 4 roles.
 
 Marketplace multi-rol para emprendimientos ULEAM.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Radix](https://img.shields.io/badge/Radix-161618?style=flat-square&logo=radixui)
-
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-[![AgroGuardian](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=AgroGuardian-AI&theme=radical&hide_border=false&border_radius=10&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117)](https://github.com/vivileef/AgroGuardian-AI)
-[![GemelaAI](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=Gemela-AI&theme=radical&hide_border=false&border_radius=10&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117)](https://github.com/vivileef/Gemela-AI)
+[![AgroGuardian](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=AgroGuardian-AI&theme=tokyonight&hide_border=true&border_radius=12&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400)](https://github.com/vivileef/AgroGuardian-AI)
+[![GemelaAI](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=Gemela-AI&theme=tokyonight&hide_border=true&border_radius=12&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400)](https://github.com/vivileef/Gemela-AI)
+[![SGEpro](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=SGEpro-react&theme=tokyonight&hide_border=true&border_radius=12&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400)](https://github.com/vivileef/SGEpro-react)
+[![Ferias](https://github-readme-stats.vercel.app/api/pin/?username=vivileef&repo=Plataforma-de-ferias-y-emprendimientos-estudiantiles--IHC&theme=tokyonight&hide_border=true&border_radius=12&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117&cache_seconds=86400)](https://github.com/vivileef/Plataforma-de-ferias-y-emprendimientos-estudiantiles--IHC)
 
 </div>
 
@@ -204,14 +164,40 @@ Marketplace multi-rol para emprendimientos ULEAM.
 
 ## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vivileef&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vivileef&theme=radical&hide_border=false&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
+<!-- Stats: mirror alternativo si vercel.app falla -->
+<img height="185" alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivileef&layout=compact&theme=radical&hide_border=false&border_radius=10&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&langs_count=8"/>
+<!-- Streak: demolab reemplaza herokuapp (caído con frecuencia) -->
+<img height="185" alt="GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=12"/>
+
+<img alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivileef&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=C9D1D9&border_radius=12&langs_count=8&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivileef&theme=react&hide_border=false&bg_color=0D1117&color=F472B6&line=A78BFA&point=EC4899&area=true&height=280" width="95%"/>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivileef/vivileef/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vivileef/vivileef/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<img alt="Activity Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=vivileef&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F472B6&line=A78BFA&point=EC4899&area=true&height=280&radius=8"/>
+
+<br/>
+
+<img alt="Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteCategory=programming" width="92%"/>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=vivileef&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"/>
+</details>
 
 </div>
 
@@ -227,6 +213,8 @@ Marketplace multi-rol para emprendimientos ULEAM.
 - Accepted · GCI World 2026 · Matsuo Lab · University of Tokyo
 - Aspire Leader · Harvard · Women in Cloud scholarship
 - Founder · Women STEM Manta · Engineering Chair · IEEE WIE
+
+*｡˚ software whispers · ✿ code, AI & digital wonders · 🪐 observing the future in real time*
 
 Open to internships · Junior Full-Stack/AI roles · Remote LATAM
 
@@ -244,8 +232,6 @@ Open to internships · Junior Full-Stack/AI roles · Remote LATAM
 
 *Technology is the means. Impact is the goal.* ✨
 
-*｡˚ software whispers · ✿ code, AI & digital wonders · 🪐 observing the future in real time*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
