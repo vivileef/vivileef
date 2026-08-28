@@ -112,9 +112,6 @@ evelyn@uleam:~$ neofetch
 
 <br/>
 
-<div align="center">
-
-
 </div>
 
 <table>
@@ -224,16 +221,3 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 </div>
 
-<details>
-<summary><b>English version</b></summary>
-<br/>
-
-Full-Stack Software Engineer · AI-Powered Applications · ULEAM, Ecuador
-
-- Codex Buildathon Winner · *AgroGuardian AI* · [live demo](https://agro-guardian-ai-bice.vercel.app)
-- GCI World 2026 · Matsuo Lab · University of Tokyo
-- Aspire Leader · Harvard · Women in Cloud · IEEE WIE Engineering Chair
-
-*Technology is the means. Impact is the goal.*
-
-</details>
