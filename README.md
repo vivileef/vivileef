@@ -95,9 +95,9 @@ evelyn@uleam:~$ neofetch
 <img height="195" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
 </td>
-<td align="center" valign="middle" width="6%">
+<td align="center" valign="middle" width="8%">
 
-<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="44" alt="GitHub"/>
+<img src="https://img.icons8.com/ios-glyphs/120/B91C1C/github.png" width="58" alt="GitHub"/>
 
 </td>
 <td align="center" valign="middle" width="47%">
@@ -129,10 +129,10 @@ evelyn@uleam:~$ neofetch
 Plataforma de salud femenina con gemelas digitales y motor de reportes con IA.
 
 [![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/Gemela-AI)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
 
 </td>
 <td width="50%" valign="top">
@@ -143,9 +143,9 @@ Agrónomo inteligente con visión por computadora e IA multi-agente.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-B91C1C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://agro-guardian-ai-bice.vercel.app)
 [![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/AgroGuardian-AI)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
 
 </td>
 </tr>
@@ -157,9 +157,9 @@ Agrónomo inteligente con visión por computadora e IA multi-agente.
 Sistema de gestión de prácticas preprofesionales con 4 roles.
 
 [![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/SGEpro-react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117)
 
 </td>
 <td width="50%" valign="top">
@@ -169,9 +169,9 @@ Sistema de gestión de prácticas preprofesionales con 4 roles.
 Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 [![Repo](https://img.shields.io/badge/C%C3%B3digo-161616?style=for-the-badge&logo=github&logoColor=B91C1C&labelColor=0D1117)](https://github.com/vivileef/Plataforma-de-ferias-y-emprendimientos-estudiantiles--IHC)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161616?style=flat-square&logo=radixui&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161616?style=for-the-badge&logo=radixui&logoColor=white&labelColor=0D1117)
 
 </td>
 </tr>
