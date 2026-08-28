@@ -155,7 +155,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 
 <img height="170" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=A78BFA&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
+<img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=vivileef&theme=tokyonight&hide_border=true&background=0D1117&ring=F472B6&fire=EC4899&currStreakLabel=F472B6&sideLabels=C9D1D9&dates=6E7681&border_radius=10"/>
 
 <br/>
 
