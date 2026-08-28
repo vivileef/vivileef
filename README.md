@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 😎 Hola a todos, soy Evelyn Faubla
----
-## **Full-Stack Software Engineer · AI-Powered Applications**
+## 😎 Hola a todos, soy Evelyn Faubla
+
+### **Full-Stack Software Engineer · AI-Powered Applications**
 
 Construyo soluciones de software que combinan **tecnología, datos e inteligencia artificial** para generar impacto real.
 
