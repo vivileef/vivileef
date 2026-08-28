@@ -1,4 +1,8 @@
-<img src="./assets/header-hands.png" width="100%" alt="header"/>
+<div align="center">
+
+<img src="./assets/header-hands.png" width="820" alt="header"/>
+
+</div>
 
 <div align="center">
 
@@ -44,34 +48,37 @@ evelyn@uleam:~$ neofetch
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
-## 🛠️ Stack técnico
+**🛠️ Stack técnico**
 
-**Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-
-**Backend & DB**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/>
-
-**IA & Cloud**
-
-<img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/>
-
-**DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/>
+<table>
+<tr>
+<td width="26%" valign="middle"><strong>Lenguajes</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,py,cpp&theme=dark" alt="Lenguajes"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>Frontend</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>Backend & DB</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase&theme=dark" alt="Backend and DB"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>IA & Cloud</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=openai,aws,docker,vercel&theme=dark" alt="IA and Cloud"/></td>
+</tr>
+<tr>
+<td valign="middle"><strong>DevOps</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&theme=dark" alt="DevOps"/></td>
+</tr>
+</table>
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
-<img src="./assets/offline-trex.png" width="100%" alt="offline"/>
+<img src="./assets/offline-trex.png" width="210" alt="offline"/>
 
 </td>
 </tr>
@@ -79,13 +86,27 @@ evelyn@uleam:~$ neofetch
 
 <div align="center">
 
-## GitHub Stats
+**GitHub Stats**
 
-<img height="130" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=8&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<table>
+<tr>
+<td align="center" valign="middle">
 
-<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="40" alt="GitHub"/>
+<img height="125" alt="GitHub Stats" src="https://github-readme-stats.shion.dev/api?username=vivileef&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&icon_color=B91C1C&text_color=9CA3AF&border_color=262626&border_radius=8&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="130" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=9CA3AF&border_color=262626&border_radius=8&langs_count=6&cache_seconds=86400"/>
+</td>
+<td align="center" valign="middle" width="56">
+
+<img src="https://img.icons8.com/ios-glyphs/90/B91C1C/github.png" width="36" alt="GitHub"/>
+
+</td>
+<td align="center" valign="middle">
+
+<img height="125" alt="Top Languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivileef&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=E5E5E5&text_color=9CA3AF&border_color=262626&border_radius=8&langs_count=6&cache_seconds=86400"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,7 +169,7 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 <tr>
 <td width="58%" valign="top">
 
-## Liderazgo y reconocimientos
+**Liderazgo y reconocimientos**
 
 - 👩‍💻 Fundadora · **Women STEM Manta**
 - 💜 Engineering Chair · **IEEE WIE** · IEEE ULEAM · IEEE RAS
@@ -160,11 +181,9 @@ Marketplace multi-rol para emprendimientos estudiantiles ULEAM.
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="260" alt="Coding animation"/>
+<img src="https://media.giphy.com/media/L1R1TVI9PgMw8wWRvD/giphy.gif" width="220" alt="Coding animation"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=1600&pause=400&color=B91C1C&center=true&multiline=true&width=280&lines=Codex+Buildathon+Winner+%F0%9F%8F%86;Women+STEM+Manta+Founder+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;IEEE+WIE+Engineering+Chair+%F0%9F%92%9C;GCI+World+2026+%C2%B7+Tokyo+%F0%9F%87%AF%F0%9F%87%B5;Aspire+Leader+%C2%B7+Harvard+%F0%9F%8E%93;Building+AI+that+matters+%F0%9F%9A%80;Leading+with+purpose+%F0%9F%94%A5;Open+to+internships+%E2%9C%A8" alt="Typing leadership"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=12&duration=2200&pause=300&color=E5E5E5&center=true&multiline=true&width=280&lines=%3E+deploying+impact...;+%3E+shipping+ideas+to+production;+%3E+turning+code+into+change;+%3E+learning+in+public;+%3E+building+the+future+now" alt="Terminal typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=B91C1C&center=true&width=250&lines=Leading+with+purpose+%F0%9F%92%9C;IEEE+WIE+Engineering+Chair;Building+AI+that+matters+%F0%9F%9A%80;Codex+Buildathon+Winner+%F0%9F%8F%86" alt="Typing leadership"/>
 
 </td>
 </tr>
